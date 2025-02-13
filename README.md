@@ -59,16 +59,16 @@ Aqui no meu portfólio, compartilho projetos, experiências e desafios que enfre
   
 #### Modelagem e Integração de Dados
 
-##### Projeto 1: Integração via ETL fontes de dados abertos.
-- Descrição: O projeto envolveu análise das fontes abertas (como por exemplo: RFB, Datasus, IBGE, INEP, COMEX, RAIS, entre outras), o desenvolvimento de modelo de dados relacional, ETL utilizando Pentaho para extração, transformação e carga dos dados. Além disso, realizado mapeamento de metadados para avaliação do dados por meio de relatórios, dashbords e cubos na aplicação propietária da empresa.
+##### Projeto 1: Integração via ETL
+- Descrição:O projeto consistiu na análise de diversas fontes de dados abertas, como RFB, Datasus, IBGE, INEP, COMEX, RAIS, entre outras. Foi desenvolvido um modelo de dados relacional e implementado um processo ETL utilizando Pentaho para extração, transformação e carga dos dados. Além disso, foi realizado o mapeamento de metadados para permitir a avaliação dos dados por meio de relatórios, dashboards e cubos na aplicação proprietária da empresa.
 - Tecnologias: Postgres, Oracle, Pentaho, XML.
 
-##### Projeto 2: Refactoring ETL Pentaho para Python (transformação dos dados).
-- Descrição: O projeto envolveu estudo e desenvolvimento script contendo o refactoring da ETL do Pentaho para Python.
+##### Projeto 2: Refatoração de ETL de Pentaho para Python
+- Descrição: O projeto envolveu o estudo e desenvolvimento de scripts para refatoração do processo ETL, migrando a lógica de transformação de dados do Pentaho para Python, visando maior flexibilidade e otimização do processamento.
 - Tecnologias: Postgres, Pentaho, Python.
 
-##### Projeto 3: Modelagem dimensional para utilização Qlik.
-- Descrição: Desenvolvimento de modelo de dados dimensional com tabelas fato e dimensão para utilização ferramenta Qlik e facilitar para o cliente análise dos dados e tomada de decisão.
+##### Projeto 3: Modelagem Dimensional para Análises no Qlik
+- Descrição: Desenvolvimento de um modelo de dados dimensional, estruturado com tabelas fato e dimensão, para integração com a ferramenta Qlik. O objetivo foi proporcionar uma análise de dados mais eficiente para o cliente, auxiliando na tomada de decisão.
 - Tecnologias: Postgres, Pentaho, Python, Qlik.
 
 ## Contato
