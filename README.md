@@ -36,7 +36,9 @@ Aqui no meu portfólio, compartilho projetos, experiências e desafios que enfre
 
 - Docker Fundamentals (Dio)
 
-- Kubernetes (em andamento)
+- Kubernetes (Dio)
+
+- Banco de Dados Oracle Completo 2025: SQL+PLSQL+Modelagem (Udemy - em andamento)
 
 
 ## Habilidades
@@ -53,10 +55,25 @@ Aqui no meu portfólio, compartilho projetos, experiências e desafios que enfre
 
 ## Projetos e Conquistas
 
+### Projetos
+  
+#### Modelagem e Integração de Dados
+
+##### Projeto 1: Integração via ETL fontes de dados abertos.
+- Descrição: O projeto envolveu análise das fontes abertas (como por exemplo: RFB, Datasus, IBGE, INEP, COMEX, RAIS, entre outras), o desenvolvimento de modelo de dados relacional, ETL utilizando Pentaho para extração, transformação e carga dos dados. Além disso, realizado mapeamento de metadados para avaliação do dados por meio de relatórios, dashbords e cubos na aplicação propietária da empresa.
+- Tecnologias: Postgres, Oracle, Pentaho, XML.
+
+##### Projeto 2: Refactoring ETL Pentaho para Python (transformação dos dados).
+- Descrição: O projeto envolveu estudo e desenvolvimento script contendo o refactoring da ETL do Pentaho para Python.
+- Tecnologias: Postgres, Pentaho, Python.
+
+##### Projeto 3: Modelagem dimensional para utilização Qlik.
+- Descrição: Desenvolvimento de modelo de dados dimensional com tabelas fato e dimensão para utilização ferramenta Qlik e facilitar para o cliente análise dos dados e tomada de decisão.
+- Tecnologias: Postgres, Pentaho, Python, Qlik.
 
 ## Contato
 
-[LinkedIn](www.linkedin.com/in/viviani-pedroso-1155b779)
+[LinkedIn](https://www.linkedin.com/in/vivianikpedroso)
 
 [GitHub](https://github.dev/vivianikelly)
 
